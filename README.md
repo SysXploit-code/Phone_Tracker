@@ -34,13 +34,13 @@ pip install pyqt6 phonenumbers pycountry requests geopy pytz
 python3 Phone_Tracker.py
 ```
 
-> Cambia el nombre del archivo a `main.py` o edítalo según el nombre real del script.
-
 ---
 
 ## 📍 Captura de pantalla
 
-*(https://i.imgur.com/WgcyHNX.png)*
+<p align="center">
+  <img src="https://i.imgur.com/WgcyHNX.png" alt="Captura de pantalla" width="600"/>
+</p>
 
 ---
 
@@ -64,5 +64,5 @@ Este proyecto es de uso libre y educativo. Puedes modificarlo y compartirlo bajo
 
 ## ✍️ Autor
 
-Desarrollado por [TuNombreAquí].  
+Desarrollado por [SysXploit-code].  
 Sígueme en GitHub: [https://github.com/SysXploit-code](https://github.com/SysXploit-code)
